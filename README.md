@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am Pedro Henrique de Oliveira Silva, or also, Pedro HOS!
+
+- 🔭 I’m currently working as a Senior Software Maintenance Engineer at Red Hat. I am also the Jboss Security Leader and write the [jboss.org](jboss.org) editorial sometimes at the year. 
+- 🌱 I’m currently learning Datascience and Analytics at USP/ESALq
+- 🇧🇷 I am also the [JUG Vale](https://github.com/Jug-Vale) co-leader, 
+- 💻 Open Source, Open Data enthusiast, and [SJC Digital](https://github.com/sjcdigital) co-founder 
+
+You'll find more information at my [Linkedin profile](https://www.linkedin.com/in/pedrohosilva/) and on my blog https://pedrohosilva.wordpress.com/
+
+- ⚡ Fun fact: I'm a moonshiner, bread and pasta cook on my free time. I also have wrote [Kim, O corpo seco](https://kotter.com.br/loja/kim-o-corpo-seco-pedro-hos/) my first novel and [Pés no chão](https://www.amazon.com.br/P%C3%A9s-no-ch%C3%A3o-Pedro-Hos-ebook/dp/B089M8PZB7) 
 
 <!--
 **pedro-hos/pedro-hos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
