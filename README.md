@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Senior Software Maintenance Engineer at Red Hat. I am also the Jboss Security Leader working with [Keycloak](https://www.keycloak.org/), [Wildfly](https://www.wildfly.org/) and [Quarkus](https://quarkus.io/). I also write the [jboss.org](https://www.jboss.org/) editorial sometimes at the year. 
 - 🌱 I've an MBA in Datascience and Analytics at USP/ESALq
 - 🇧🇷 I am also the [JUG Vale](https://github.com/Jug-Vale) co-leader, 
-- 💻 Open Source, Open Data enthusiast, and [SJC Digital](https://github.com/sjcdigital) co-founder 
+- 💻 Open Source, Open Data enthusiast, and [Tapioca Aberta](https://github.com/TapiocaAberta/) co-founder 
 
 You'll find more information at my [Linkedin profile](https://www.linkedin.com/in/pedrohosilva/) and on my blog https://pedrohosilva.wordpress.com/
 
