@@ -1,4 +1,4 @@
-### Hi there 👋 I am Pedro Henrique de Oliveira Silva, or also, Pedro HOS!
+### Hi there 👋 I am Pedro Henrique de Oliveira Silva, AKA, Pedro HOS!
 
 - 🔭 I’m currently working as a Senior Software Maintenance Engineer at Red Hat. I am also the Jboss Security Leader working with [Keycloak](https://www.keycloak.org/), [Wildfly](https://www.wildfly.org/) and [Quarkus](https://quarkus.io/). I also write the [jboss.org](https://www.jboss.org/) editorial sometimes at the year. 
 - 🌱 I've an MBA in Datascience and Analytics at USP/ESALq
